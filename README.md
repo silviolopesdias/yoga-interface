@@ -27,7 +27,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/silvio.jpg" width="100px;" alt="Foto do Silvio no GitHub"/><br>
+        <img src="./assets/silvio.jpg" width="30px;" alt="Foto do Silvio no GitHub"/><br>
         <sub>
           <b>Silvio Lopes</b>
         </sub>
